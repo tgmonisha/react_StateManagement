@@ -1,12 +1,48 @@
-# React + Vite
+# 📝 React State Management - ToDo List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Continuing my React journey, I explored **state management** using hooks and built a simple yet effective **ToDo List App**.
 
-Currently, two official plugins are available:
+This project helped me understand how to add, update, and delete tasks while managing component state efficiently.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- ➕ Add new tasks  
+- ✅ Mark tasks as completed  
+- ❌ Delete tasks  
+- 🎨 Simple and clean UI  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚡ Tech Stack
+- React (Hooks - useState) ⚛️  
+- JavaScript (ES6+)  
+- CSS3 for styling 🎨  
+
+---
+
+## 📸 Output Screenshots
+
+### ➡️ Adding Tasks
+![Add Tasks](output1.png)
+
+### ➡️ Completed & Deleted Tasks
+![Manage Tasks](output2.png)
+
+---
+
+## 📂 Project Setup
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/tgmonisha/react_StateManagement.git
+2. Install dependencies:
+   
+   npm install
+4. Run the Project:
+   
+   npm run dev
+   
+<p align="center">  
+  Made with ❤️ by <b>Monisha</b> ✨  
+</p>
+   
